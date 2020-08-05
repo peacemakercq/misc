@@ -9,7 +9,7 @@ syntax enable
 try
   colorscheme desert
 catch
-entry
+endtry
 
 set background=dark
 
