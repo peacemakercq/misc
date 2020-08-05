@@ -1,6 +1,6 @@
 set hlsearch
 set incsearch
-set magico
+set magic
 set showmatch
 set mat=3
 
