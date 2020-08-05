@@ -1,3 +1,5 @@
+set nu!
+
 set hlsearch
 set incsearch
 set magic
